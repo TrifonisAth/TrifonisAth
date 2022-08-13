@@ -20,8 +20,7 @@
 <div>
 <img aligm="left" alt="Java" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:15px;"/>
 <img aligm="left" alt="Python" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;"/>
-<img aligm="left" alt="SQL" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" style="padding-right:15px;"/>
-<img aligm="left" alt="C++" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" style="padding-right:15px;"/>
+<img aligm="left" alt="C++" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" style="padding-right:15px;"/>
 <img aligm="left" alt="PostGres" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:15px;"/>
 </div>
 <div>
