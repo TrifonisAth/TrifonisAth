@@ -11,11 +11,11 @@
 ## Languages and Tools:
 
 
-  <img align="left" alt="HTML5" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
-  <img align="left" alt="CSS3" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;" />
-  <img align="left" alt="Sass" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:15px;" />
-  <img align="left" alt="JavaScript" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-        right:15px;"/>
-  <img aligm="left" alt="Java" width="64px" src="https://banner2.cleanpng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-  concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg" style="padding-right:15px;"/>
-  <img align="left" alt="Git" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;" />
-  <img align="left" alt="GitHub" width="52px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-    right:15px;" />
-  <img align="left" alt="Visual Studio Code" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;"   />
+<img align="left" alt="HTML5" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
+<img align="left" alt="CSS3" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;" />
+<img align="left" alt="Sass" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:15px;" />
+<img align="left" alt="JavaScript" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-        right:15px;"/>
+<img aligm="left" alt="Java" width="64px" src="https://banner2.cleanpng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-  concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg" style="padding-right:15px;"/>
+<img align="left" alt="Git" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;" />
+<img align="left" alt="GitHub" width="52px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-    right:15px;" />
+<img align="left" alt="Visual Studio Code" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;"   />
