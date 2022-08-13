@@ -1,7 +1,5 @@
 <h1>Hi, I'm Thanos an Aspiring Software Engineer! :computer:</h1>
 
-<h2>About me:</h2>
-
 - ### I did a career change from  :wrench: Environmental Engineering to CS.
 - ### Currently i'm on my 3<sup>rd</sup> year in CS dept at [AUEB](https://www.aueb.gr/)
 - ### Currently learning: Web Development - MERN Stack, at [TOP](https://www.theodinproject.com/).
