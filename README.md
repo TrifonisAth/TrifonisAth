@@ -23,7 +23,7 @@
 
 
 
-## Version Control Software:
+### Version Control Software:
 
 
 <img align="left" alt="Git" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;" />
@@ -31,7 +31,7 @@
 <img align="left" alt="Visual Studio Code" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;"/> 
 
 
-### IDEs and Code Editors:
+#### IDEs and Code Editors:
 
 
 <div>
