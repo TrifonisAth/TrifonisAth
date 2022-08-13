@@ -6,7 +6,7 @@
 - ### I started coding during my first bachelor's degree as an Environmental Engineer at [UOWM](https://www.uowm.gr/en/) (former TEIWM).
 
 
-<h2>Languages:<h2>
+<h2>Languages and Tools:<h2>
 
 <div>
 <img align="left" alt="HTML5" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
