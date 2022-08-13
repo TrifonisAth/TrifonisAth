@@ -1,6 +1,6 @@
 <h1>Hi, I'm Thanos an Aspiring Software Engineer! :computer:</h1>
 
-- ### I did a career change from  :wrench: Environmental Engineering to CS.
+- ### I switched from  :wrench: Environmental Engineering to CS.
 - ### Currently i'm on my 3<sup>rd</sup> year in CS dept at [AUEB](https://www.aueb.gr/)
 - ### Currently learning: Web Development - MERN Stack, at [TOP](https://www.theodinproject.com/).
 - ### I started coding during my first bachelor's degree as an Environmental Engineer at [UOWM](https://www.uowm.gr/en/) (former TEIWM).
