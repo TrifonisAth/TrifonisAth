@@ -25,6 +25,6 @@
 <img align="left" alt="Git" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;" />
 <img align="left" alt="GitHub" width="52px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-    right:15px;" />
 <img align="left" alt="Visual Studio Code" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;"   />
-<img align="left" alt="Visual Studio" width="52px" src="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#/media/File:Visual_Studio_Icon_2019.svg" style="padding-right:15px;"   />
+<img align="left" alt="Visual Studio" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1280px-Visual_Studio_Icon_2019.svg.png" style="padding-right:15px;"   />
 </div>
 </div>
