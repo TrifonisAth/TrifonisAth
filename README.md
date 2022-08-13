@@ -23,7 +23,7 @@
 
 
 
-### Version Control Software:
+<h2 align="right">Version Control Software:</h2>
 
 
 <img align="right" alt="Git" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;" />
