@@ -1,4 +1,4 @@
-# Hi, I'm Thanos an Aspiring Software Engineer! :computer:
+<h1>Hi, I'm Thanos an Aspiring Software Engineer! :computer:</h1>
 
 ## About me:
 
