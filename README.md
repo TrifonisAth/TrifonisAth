@@ -1,5 +1,4 @@
-<image align="center" alt="Code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cyanous.com%2Fdatabases&psig=AOvVaw2ojjB-BkxUcIslRsqyZjEL&ust=1695990028994000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCSxqulzYEDFQAAAAAdAAAAABAL![image](https://github.com/TrifonisAth/TrifonisAth/assets/81590123/56d2f7bc-414c-4199-995d-7b86cd17c686)
-">
+<image align="center" alt="Code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cyanous.com">
 "
 <h1 align="center">Hi 👋, I'm Thanos Trifonis</h1>
 <h3 align="center">A versatile Software Engineer committed to solving problems by utilising ingenuity and technical expertise.</h3>
