@@ -1,5 +1,5 @@
-<image align="center" alt="Code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cyanous.com">
-"
+<iframe src="https://giphy.com/embed/AOSwwqVjNZlDO" width="480" height="303" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-AOSwwqVjNZlDO">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Thanos Trifonis</h1>
 <h3 align="center">A versatile Software Engineer committed to solving problems by utilising ingenuity and technical expertise.</h3>
 
