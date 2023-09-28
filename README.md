@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/AOSwwqVjNZlDO" width="480" height="303" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-AOSwwqVjNZlDO">via GIPHY</a></p>
+<image src="https://giphy.com/embed/AOSwwqVjNZlDO" width="480" height="303">
 
 <h1 align="center">Hi 👋, I'm Thanos Trifonis</h1>
 <h3 align="center">A versatile Software Engineer committed to solving problems by utilising ingenuity and technical expertise.</h3>
