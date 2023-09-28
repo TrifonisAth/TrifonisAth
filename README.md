@@ -1,5 +1,6 @@
-![image]([https://github.com/TrifonisAth/TrifonisAth/assets/81590123/e13e8291-415b-46d8-ad1a-80021b32e31f](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbetterprogramming.pub%2Fhow-to-create-the-matrix-text-effect-with-javascript-325c6bb7d96e&psig=AOvVaw2NLOY5ajjrPx48nKX_LTJL&ust=1695989136698000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC-l4KizYEDFQAAAAAdAAAAABBc))
-
+<image align="center" alt="Code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cyanous.com%2Fdatabases&psig=AOvVaw2ojjB-BkxUcIslRsqyZjEL&ust=1695990028994000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCSxqulzYEDFQAAAAAdAAAAABAL![image](https://github.com/TrifonisAth/TrifonisAth/assets/81590123/56d2f7bc-414c-4199-995d-7b86cd17c686)
+">
+"
 <h1 align="center">Hi 👋, I'm Thanos Trifonis</h1>
 <h3 align="center">A versatile Software Engineer committed to solving problems by utilising ingenuity and technical expertise.</h3>
 
