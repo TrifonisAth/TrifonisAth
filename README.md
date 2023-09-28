@@ -2,7 +2,7 @@
   <img width="100%" height="200rem" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif">
 </p>
 <br>
-<h1 align="center">Hi 👋, I'm Thanos Trifonis</h1>
+<h1 align="center">Hi 👋, I'm Thanos</h1>
 <h3 align="center">A versatile Software Engineer committed to solving problems<br>by utilising ingenuity and technical expertise.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trifonisath&label=Profile%20views&color=0e75b6&style=flat" alt="trifonisath" /> </p>
 <p align="center">
