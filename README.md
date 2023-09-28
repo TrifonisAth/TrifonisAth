@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Thanos Trifonis</h1>
 <h3 align="center">A versatile Software Engineer committed to solving problems by utilising ingenuity and technical expertise.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trifonisath&label=Profile%20![image](https://github.com/TrifonisAth/TrifonisAth/assets/81590123/a15e4d51-ac9c-4d6f-a95e-aca9e28a41b8)
-views&color=0e75b6&style=flat" alt="trifonisath" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
