@@ -1,9 +1,10 @@
-![image](https://github.com/TrifonisAth/TrifonisAth/assets/81590123/e13e8291-415b-46d8-ad1a-80021b32e31f)
+![image]([https://github.com/TrifonisAth/TrifonisAth/assets/81590123/e13e8291-415b-46d8-ad1a-80021b32e31f](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbetterprogramming.pub%2Fhow-to-create-the-matrix-text-effect-with-javascript-325c6bb7d96e&psig=AOvVaw2NLOY5ajjrPx48nKX_LTJL&ust=1695989136698000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC-l4KizYEDFQAAAAAdAAAAABBc))
 
 <h1 align="center">Hi 👋, I'm Thanos Trifonis</h1>
 <h3 align="center">A versatile Software Engineer committed to solving problems by utilising ingenuity and technical expertise.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trifonisath&label=Profile%20views&color=0e75b6&style=flat" alt="trifonisath" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trifonisath&label=Profile%20![image](https://github.com/TrifonisAth/TrifonisAth/assets/81590123/a15e4d51-ac9c-4d6f-a95e-aca9e28a41b8)
+views&color=0e75b6&style=flat" alt="trifonisath" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
