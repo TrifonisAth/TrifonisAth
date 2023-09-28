@@ -1,3 +1,5 @@
+![image](https://github.com/TrifonisAth/TrifonisAth/assets/81590123/e13e8291-415b-46d8-ad1a-80021b32e31f)
+
 <h1 align="center">Hi 👋, I'm Thanos Trifonis</h1>
 <h3 align="center">A versatile Software Engineer committed to solving problems by utilising ingenuity and technical expertise.</h3>
 
