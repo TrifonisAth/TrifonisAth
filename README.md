@@ -3,7 +3,7 @@
 </p>
 <br>
 <h1 align="center">Hi 👋,  I'm Thanos</h1>
-<h3 align="center">A versatile Software Engineer committed to solving problems<br>by utilising ingenuity and technical expertise.</h3>
+<h3 align="center">A versatile Software Engineer committed to solving problems<br>by utilising technical expertise.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trifonisath&label=Profile%20views&color=0e75b6&style=flat" alt="trifonisath" /> </p>
 <p align="center">
 - 🌱 I’m currently learning: Spring Boot
